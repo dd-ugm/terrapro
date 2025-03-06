@@ -2,7 +2,7 @@
 
 Slice and project 3D terrain data onto a 2D plane. Primary motivation is to prepare terrain data for conversion to .svg/.gcode for use with pen plotters.
 
-Currently using basic generated sample data as proof of concept but should be scalble to much larger inputs.
+Currently using basic generated sample data as proof of concept but should be scalable to much larger inputs.
 
 **Sample terrain ponts:**
 
