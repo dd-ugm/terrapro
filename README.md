@@ -2,6 +2,18 @@
 
 Slice and project 3D terrain data onto a 2D plane. Primary motivation is to prepare terrain data for conversion to .svg/.gcode for use with pen plotters.
 
+Sample terrain
+![img/sample_terrain-w.png]
+
+Camera focal point and view vector
+![img/sample_terrain-vp-mean_vector.png]
+
+Points rotated to align view vector with positive y-axis
+![img/sample_terrain-rotated_ref_frame.png]
+
+Projection of points onto 2D 'sensor' plane behind camera focal point
+![img/sample_terrain-projected.png]
+
 ## Roadmap
 
 - [ ] Heightmap import (currently uses internally-generated sample data)
