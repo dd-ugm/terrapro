@@ -12,7 +12,7 @@ Slice and project 3D terrain data onto a 2D plane. Primary motivation is to prep
 
 **Points rotated to align view vector with positive y-axis:**
 
-![Points rotated to align view vector with positive y-axis](img/sample_terrain-rotated_ref_frame.pn)
+![Points rotated to align view vector with positive y-axis](img/sample_terrain-rotated_ref_frame.png)
 
 **Projection of points onto 2D 'sensor' plane behind camera focal point:**
 
